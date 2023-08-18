@@ -1,0 +1,15 @@
+#square {
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    display: none;
+    position: relative;
+}
+
+body {
+    font-family: serif;
+}
+
+#visible {
+    font-weight: bold;
+}
